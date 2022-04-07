@@ -1,7 +1,8 @@
 ### ***Emma Duane***  
 #### Welcome! 
-I'm currently a Senior at UC Irvine studying Computer Science.  
-Find me on [LinkedIn](https://www.linkedin.com/in/emma-duane/)!  
+<img src="https://random-memer.herokuapp.com/" alt="devmeme" width="200" style="float:right;">
+<div style="color:#cc99cc;">I'm currently a Senior at UC Irvine studying Computer Science.</div>
+Find me on [LinkedIn](https://www.linkedin.com/in/emma-duane/)!
 
 <!--
 **thishurts/thishurts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
