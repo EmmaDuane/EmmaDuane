@@ -1,8 +1,13 @@
-### ***Emma Duane***  
+## *Emma Duane*
 #### Welcome! 
 <img src="https://random-memer.herokuapp.com/" alt="devmeme" width="200" style="float:right;">
 <div style="color:#cc99cc;">I'm currently a Senior at UC Irvine studying Computer Science.</div>
-Find me on [LinkedIn](https://www.linkedin.com/in/emma-duane/)!
+🌱 I’m currently learning about database management using mySQL and the basics of operating systems.
+
+🔭 My tech interests involve full-stack web development, mobile applications, and UI development.  
+⚡ Other interests include reading, horticulture, and working with animals.
+
+Find me on <a href="https://www.linkedin.com/in/emma-duane/">LinkedIn</a>
 
 <!--
 **thishurts/thishurts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
