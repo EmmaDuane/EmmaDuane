@@ -4,8 +4,8 @@
 🌱 My current studies include: database management using mySQL, operating systems, and human computer interaction.
 
 🔭 I'd love to learn more about full-stack web development, mobile applications, and UI/UX development.  
-⚡ Some of my other interests include reading, horticulture, design, and programming in C++. 
-🌱 I’m currently learning Python, JavaScript, basic OS theory. 
+⚡ Some of my other interests include reading, horticulture, design, and programming in C++.  
+🌱 I’m currently learning Python, JavaScript, basic OS theory.  
 😄 Pronouns: She/her/they
 
 Find me on <a href="https://www.linkedin.com/in/emma-duane/">LinkedIn</a>
